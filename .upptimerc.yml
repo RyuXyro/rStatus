@@ -11,6 +11,8 @@ sites:
     url: https://erlanggaagung.epizy.com
   - name: Moe Count
     url: https://moe-count.glitch.me
+  - name: Status
+    url: https://ryuxyro.github.io/rStatus/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
