@@ -23,9 +23,9 @@ status-website:
   introMessage: This is a **real-time** see Site
   navbar:
     - title: Github
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/RyuXyro
     - title: Get Free
-      href: https://github.com/RyuXyro/status
+      href: https://github.com/RyuXyro/rStatus
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
