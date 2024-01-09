@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-09": 82,
+      "2024-01-09": 722,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
@@ -34,11 +34,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ryu-xyro-site",
     "status": "up",
-    "uptime": "85.75%",
+    "uptime": "86.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "81.62%",
-    "uptimeMonth": "85.75%",
-    "uptimeYear": "85.75%",
+    "uptimeMonth": "86.41%",
+    "uptimeYear": "86.41%",
     "time": 366,
     "timeDay": 345,
     "timeWeek": 365,
@@ -67,7 +67,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-09": 82,
+      "2024-01-09": 722,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
@@ -84,9 +84,9 @@
     "url": "https://moe-count.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/moe-count.glitch.me.ico",
     "slug": "moe-count",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +95,9 @@
     "timeWeek": 7404,
     "timeMonth": 4093,
     "timeYear": 4093,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-09": 0
+    }
   },
   {
     "name": "Insta Downloader",
@@ -132,10 +134,10 @@
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {
+      "2024-01-09": 1444,
       "2024-01-06": 3235,
       "2024-01-05": 3691,
       "2024-01-04": 3567,
-      "2024-01-09": 164,
       "2024-01-08": 2880,
       "2024-01-07": 2880,
       "2024-01-03": 2880,
